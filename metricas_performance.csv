@@ -1,0 +1,2 @@
+Version,Traders,Executors,CreationTime_s,Throughput_ops_s,AvgLatency_ms
+processos,4,2,Processos:,4.00,0.000087

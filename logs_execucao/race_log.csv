@@ -1,0 +1,1051 @@
+Timestamp,Run,ThreadType,ThreadID,Evento,Detalhes
+12474.795854493,1,Main,-1,RunStart,Iniciando nova execução
+12474.796172113,1,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12474.796206064,1,Executor,140720513602720,ReadEnd,Preço lido: 25.5000
+12474.796318851,1,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12474.796334143,1,Executor,140720513602724,ReadEnd,Preço lido: 25.5000
+12474.796560767,1,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12474.796577144,1,Executor,140720513602728,ReadEnd,Preço lido: 25.5000
+12474.796578490,1,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5100
+12474.796583112,1,Executor,140720513602720,WriteEnd,Escrita concluída
+12474.796578693,1,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12474.796613125,1,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5100
+12474.796617597,1,Executor,140720513602724,WriteEnd,Escrita concluída
+12474.796621667,1,Executor,140720513602732,ReadEnd,Preço lido: 25.5100
+12474.796686681,1,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12474.796698050,1,Executor,140720513602720,ReadEnd,Preço lido: 25.5100
+12474.796715967,1,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12474.796725784,1,Executor,140720513602736,ReadEnd,Preço lido: 25.5100
+12474.796773384,1,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12474.796778435,1,Executor,140720513602724,ReadEnd,Preço lido: 25.5100
+12474.796798027,1,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5200
+12474.796799575,1,Executor,140720513602732,WriteEnd,Escrita concluída
+12474.796920725,1,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5100
+12474.796924738,1,Executor,140720513602728,WriteEnd,Escrita concluída
+12474.796983747,1,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5200
+12474.796989053,1,Executor,140720513602724,WriteEnd,Escrita concluída
+12474.796992607,1,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12474.796999698,1,Executor,140720513602732,ReadEnd,Preço lido: 25.5200
+12474.797044431,1,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5200
+12474.797051910,1,Executor,140720513602736,WriteEnd,Escrita concluída
+12474.797065875,1,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12474.797072345,1,Executor,140720513602728,ReadEnd,Preço lido: 25.5200
+12474.797156734,1,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12474.797159995,1,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5200
+12474.797163404,1,Executor,140720513602720,WriteEnd,Escrita concluída
+12474.797163727,1,Executor,140720513602724,ReadEnd,Preço lido: 25.5200
+12474.797203247,1,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12474.797210259,1,Executor,140720513602736,ReadEnd,Preço lido: 25.5200
+12474.797284313,1,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5300
+12474.797288319,1,Executor,140720513602732,WriteEnd,Escrita concluída
+12474.797359326,1,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12474.797368798,1,Executor,140720513602720,ReadEnd,Preço lido: 25.5300
+12474.797382983,1,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5300
+12474.797386503,1,Executor,140720513602728,WriteEnd,Escrita concluída
+12474.797411989,1,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12474.797423545,1,Executor,140720513602732,ReadEnd,Preço lido: 25.5300
+12474.797454413,1,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5300
+12474.797457993,1,Executor,140720513602724,WriteEnd,Escrita concluída
+12474.797463599,1,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12474.797472122,1,Executor,140720513602728,ReadEnd,Preço lido: 25.5300
+12474.797510966,1,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5300
+12474.797515022,1,Executor,140720513602736,WriteEnd,Escrita concluída
+12474.797596221,1,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12474.797603287,1,Executor,140720513602724,ReadEnd,Preço lido: 25.5300
+12474.797610135,1,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5400
+12474.797786254,1,Executor,140720513602720,WriteEnd,Escrita concluída
+12474.797632708,1,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12474.797825189,1,Executor,140720513602736,ReadEnd,Preço lido: 25.5400
+12474.797660290,1,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5400
+12474.797859463,1,Executor,140720513602728,WriteEnd,Escrita concluída
+12474.797683819,1,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5400
+12474.797885731,1,Executor,140720513602732,WriteEnd,Escrita concluída
+12474.797952376,1,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5400
+12474.797955453,1,Executor,140720513602724,WriteEnd,Escrita concluída
+12474.797967568,1,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12474.797973641,1,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12474.797978086,1,Executor,140720513602720,ReadEnd,Preço lido: 25.5400
+12474.797982107,1,Executor,140720513602728,ReadEnd,Preço lido: 25.5400
+12474.798033076,1,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12474.798040563,1,Executor,140720513602732,ReadEnd,Preço lido: 25.5400
+12474.798096103,1,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12474.798101794,1,Executor,140720513602724,ReadEnd,Preço lido: 25.5400
+12474.798128542,1,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5500
+12474.798135571,1,Executor,140720513602736,WriteEnd,Escrita concluída
+12474.798192290,1,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5500
+12474.798196348,1,Executor,140720513602720,WriteEnd,Escrita concluída
+12474.798217604,1,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5500
+12474.798221760,1,Executor,140720513602732,WriteEnd,Escrita concluída
+12474.798251974,1,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12474.798259810,1,Executor,140720513602736,ReadEnd,Preço lido: 25.5500
+12474.798284724,1,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5500
+12474.798291592,1,Executor,140720513602728,WriteEnd,Escrita concluída
+12474.798321745,1,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5500
+12474.798325179,1,Executor,140720513602724,WriteEnd,Escrita concluída
+12474.798388566,1,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12474.798396003,1,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12474.798398498,1,Executor,140720513602720,ReadEnd,Preço lido: 25.5500
+12474.798401941,1,Executor,140720513602732,ReadEnd,Preço lido: 25.5500
+12474.798401659,1,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5600
+12474.798420191,1,Executor,140720513602736,WriteEnd,Escrita concluída
+12474.798432025,1,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12474.798441887,1,Executor,140720513602728,ReadEnd,Preço lido: 25.5600
+12474.798537768,1,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12474.798545753,1,Executor,140720513602736,ReadEnd,Preço lido: 25.5600
+12474.798638845,1,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5600
+12474.798644176,1,Executor,140720513602732,WriteEnd,Escrita concluída
+12474.798697135,1,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5600
+12474.798698274,1,Executor,140720513602720,WriteEnd,Escrita concluída
+12474.798707382,1,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5700
+12474.798708414,1,Executor,140720513602736,WriteEnd,Escrita concluída
+12474.798756673,1,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5700
+12474.798757829,1,Executor,140720513602728,WriteEnd,Escrita concluída
+12474.798941402,1,Análise,-1,Start,Iniciando análise de resultados
+12474.798947966,1,Análise,-1,ContadorCheck,Esperado: 25, Resultado: 10
+12474.798958502,1,Análise,-1,PrecoCheck,Esperado: 25.75, Resultado: 25.57
+12474.798969377,1,Análise,-1,End,Análise concluída
+12475.799148685,2,Main,-1,RunStart,Iniciando nova execução
+12475.799389858,2,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12475.799406013,2,Executor,140720513602720,ReadEnd,Preço lido: 25.5000
+12475.799494119,2,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12475.799503800,2,Executor,140720513602724,ReadEnd,Preço lido: 25.5000
+12475.799564844,2,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12475.799578881,2,Executor,140720513602728,ReadEnd,Preço lido: 25.5000
+12475.799614757,2,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12475.799624285,2,Executor,140720513602732,ReadEnd,Preço lido: 25.5000
+12475.799757387,2,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5100
+12475.799763512,2,Executor,140720513602724,WriteEnd,Escrita concluída
+12475.799775376,2,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5100
+12475.799781830,2,Executor,140720513602720,WriteEnd,Escrita concluída
+12475.799783474,2,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5100
+12475.799792227,2,Executor,140720513602732,WriteEnd,Escrita concluída
+12475.799797064,2,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12475.799807964,2,Executor,140720513602736,ReadEnd,Preço lido: 25.5100
+12475.799852023,2,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12475.799859183,2,Executor,140720513602724,ReadEnd,Preço lido: 25.5100
+12475.799871426,2,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5100
+12475.799875680,2,Executor,140720513602728,WriteEnd,Escrita concluída
+12475.799946215,2,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5200
+12475.799951593,2,Executor,140720513602736,WriteEnd,Escrita concluída
+12475.799956582,2,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12475.799962076,2,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12475.799967211,2,Executor,140720513602728,ReadEnd,Preço lido: 25.5200
+12475.799972007,2,Executor,140720513602720,ReadEnd,Preço lido: 25.5200
+12475.799967764,2,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12475.799997589,2,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5200
+12475.800031490,2,Executor,140720513602732,ReadEnd,Preço lido: 25.5200
+12475.800031666,2,Executor,140720513602724,WriteEnd,Escrita concluída
+12475.800077632,2,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12475.800087050,2,Executor,140720513602736,ReadEnd,Preço lido: 25.5200
+12475.800144217,2,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5300
+12475.800149220,2,Executor,140720513602728,WriteEnd,Escrita concluída
+12475.800163843,2,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5300
+12475.800168476,2,Executor,140720513602720,WriteEnd,Escrita concluída
+12475.800178426,2,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12475.800186660,2,Executor,140720513602724,ReadEnd,Preço lido: 25.5300
+12475.800229002,2,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5300
+12475.800231873,2,Executor,140720513602732,WriteEnd,Escrita concluída
+12475.800291675,2,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5300
+12475.800293239,2,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12475.800303032,2,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12475.800302696,2,Executor,140720513602736,WriteEnd,Escrita concluída
+12475.800314101,2,Executor,140720513602720,ReadEnd,Preço lido: 25.5300
+12475.800310844,2,Executor,140720513602728,ReadEnd,Preço lido: 25.5300
+12475.800381962,2,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5400
+12475.800386622,2,Executor,140720513602724,WriteEnd,Escrita concluída
+12475.800393978,2,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12475.800398809,2,Executor,140720513602732,ReadEnd,Preço lido: 25.5400
+12475.800441004,2,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12475.800449046,2,Executor,140720513602736,ReadEnd,Preço lido: 25.5400
+12475.800488429,2,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12475.800570435,2,Executor,140720513602724,ReadEnd,Preço lido: 25.5400
+12475.800493900,2,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5400
+12475.800594062,2,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5400
+12475.800600199,2,Executor,140720513602720,WriteEnd,Escrita concluída
+12475.800600293,2,Executor,140720513602728,WriteEnd,Escrita concluída
+12475.800624043,2,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5500
+12475.800629381,2,Executor,140720513602732,WriteEnd,Escrita concluída
+12475.800696264,2,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12475.800699804,2,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5500
+12475.800704207,2,Executor,140720513602728,ReadEnd,Preço lido: 25.5500
+12475.800704674,2,Executor,140720513602736,WriteEnd,Escrita concluída
+12475.800753223,2,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12475.800761792,2,Executor,140720513602720,ReadEnd,Preço lido: 25.5500
+12475.800766003,2,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12475.800771219,2,Executor,140720513602732,ReadEnd,Preço lido: 25.5500
+12475.800832031,2,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5500
+12475.800833849,2,Executor,140720513602724,WriteEnd,Escrita concluída
+12475.800892418,2,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12475.800901620,2,Executor,140720513602736,ReadEnd,Preço lido: 25.5500
+12475.800960100,2,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12475.800964925,2,Executor,140720513602724,ReadEnd,Preço lido: 25.5500
+12475.800996497,2,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5600
+12475.801022167,2,Executor,140720513602720,WriteEnd,Escrita concluída
+12475.801041503,2,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5600
+12475.801043232,2,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5600
+12475.801042484,2,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5600
+12475.801058638,2,Executor,140720513602728,WriteEnd,Escrita concluída
+12475.801052038,2,Executor,140720513602732,WriteEnd,Escrita concluída
+12475.801064131,2,Executor,140720513602736,WriteEnd,Escrita concluída
+12475.801144161,2,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12475.801145419,2,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12475.801157220,2,Executor,140720513602720,ReadEnd,Preço lido: 25.5600
+12475.801161063,2,Executor,140720513602728,ReadEnd,Preço lido: 25.5600
+12475.801158710,2,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12475.801178382,2,Executor,140720513602732,ReadEnd,Preço lido: 25.5600
+12475.801194095,2,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12475.801202995,2,Executor,140720513602736,ReadEnd,Preço lido: 25.5600
+12475.801246172,2,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5600
+12475.801250881,2,Executor,140720513602724,WriteEnd,Escrita concluída
+12475.801353736,2,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5700
+12475.801356104,2,Executor,140720513602732,WriteEnd,Escrita concluída
+12475.801404780,2,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5700
+12475.801409502,2,Executor,140720513602720,WriteEnd,Escrita concluída
+12475.801464131,2,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5700
+12475.801467155,2,Executor,140720513602728,WriteEnd,Escrita concluída
+12475.801500789,2,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5700
+12475.801505335,2,Executor,140720513602736,WriteEnd,Escrita concluída
+12475.801770520,2,Análise,-1,Start,Iniciando análise de resultados
+12475.801786807,2,Análise,-1,ContadorCheck,Esperado: 25, Resultado: 11
+12475.801821551,2,Análise,-1,PrecoCheck,Esperado: 25.75, Resultado: 25.57
+12475.801852673,2,Análise,-1,End,Análise concluída
+12476.802045137,3,Main,-1,RunStart,Iniciando nova execução
+12476.802237293,3,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12476.802359892,3,Executor,140720513602720,ReadEnd,Preço lido: 25.5000
+12476.802301641,3,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12476.802390645,3,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12476.802417695,3,Executor,140720513602732,ReadEnd,Preço lido: 25.5000
+12476.802419930,3,Executor,140720513602724,ReadEnd,Preço lido: 25.5000
+12476.802323640,3,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12476.802456567,3,Executor,140720513602728,ReadEnd,Preço lido: 25.5000
+12476.802577526,3,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5100
+12476.802581736,3,Executor,140720513602720,WriteEnd,Escrita concluída
+12476.802602713,3,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12476.802615130,3,Executor,140720513602736,ReadEnd,Preço lido: 25.5100
+12476.802633904,3,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5100
+12476.802640347,3,Executor,140720513602732,WriteEnd,Escrita concluída
+12476.802723938,3,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5100
+12476.802730295,3,Executor,140720513602728,WriteEnd,Escrita concluída
+12476.802758881,3,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5200
+12476.802763528,3,Executor,140720513602736,WriteEnd,Escrita concluída
+12476.802762735,3,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5100
+12476.802770532,3,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12476.802779017,3,Executor,140720513602724,WriteEnd,Escrita concluída
+12476.802781189,3,Executor,140720513602720,ReadEnd,Preço lido: 25.5200
+12476.802800337,3,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12476.802809261,3,Executor,140720513602732,ReadEnd,Preço lido: 25.5100
+12476.802834118,3,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12476.802841869,3,Executor,140720513602728,ReadEnd,Preço lido: 25.5100
+12476.802869566,3,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12476.802878170,3,Executor,140720513602736,ReadEnd,Preço lido: 25.5100
+12476.802941331,3,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12476.802948448,3,Executor,140720513602724,ReadEnd,Preço lido: 25.5100
+12476.802998537,3,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5300
+12476.803041949,3,Executor,140720513602720,WriteEnd,Escrita concluída
+12476.803055387,3,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5200
+12476.803061226,3,Executor,140720513602732,WriteEnd,Escrita concluída
+12476.803115564,3,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5200
+12476.803119526,3,Executor,140720513602728,WriteEnd,Escrita concluída
+12476.803143514,3,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5200
+12476.803148648,3,Executor,140720513602736,WriteEnd,Escrita concluída
+12476.803148263,3,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12476.803168674,3,Executor,140720513602732,ReadEnd,Preço lido: 25.5200
+12476.803202190,3,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12476.803209117,3,Executor,140720513602720,ReadEnd,Preço lido: 25.5200
+12476.803233938,3,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12476.803246952,3,Executor,140720513602728,ReadEnd,Preço lido: 25.5200
+12476.803256077,3,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12476.803264862,3,Executor,140720513602736,ReadEnd,Preço lido: 25.5200
+12476.803280418,3,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5200
+12476.803284807,3,Executor,140720513602724,WriteEnd,Escrita concluída
+12476.803404415,3,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12476.803410682,3,Executor,140720513602724,ReadEnd,Preço lido: 25.5200
+12476.803412922,3,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5300
+12476.803411263,3,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5300
+12476.803417401,3,Executor,140720513602732,WriteEnd,Escrita concluída
+12476.803426458,3,Executor,140720513602736,WriteEnd,Escrita concluída
+12476.803457503,3,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5300
+12476.803556459,3,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12476.803564827,3,Executor,140720513602732,ReadEnd,Preço lido: 25.5300
+12476.803564722,3,Executor,140720513602720,WriteEnd,Escrita concluída
+12476.803473612,3,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5300
+12476.803609684,3,Executor,140720513602728,WriteEnd,Escrita concluída
+12476.803672057,3,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12476.803683804,3,Executor,140720513602720,ReadEnd,Preço lido: 25.5300
+12476.803697566,3,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5300
+12476.803699163,3,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12476.803701138,3,Executor,140720513602724,WriteEnd,Escrita concluída
+12476.803709206,3,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5400
+12476.803714557,3,Executor,140720513602732,WriteEnd,Escrita concluída
+12476.803715244,3,Executor,140720513602736,ReadEnd,Preço lido: 25.5300
+12476.803754394,3,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12476.803765322,3,Executor,140720513602728,ReadEnd,Preço lido: 25.5400
+12476.803801699,3,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12476.803807921,3,Executor,140720513602724,ReadEnd,Preço lido: 25.5400
+12476.803863192,3,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12476.803871419,3,Executor,140720513602732,ReadEnd,Preço lido: 25.5400
+12476.803915713,3,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5400
+12476.803920157,3,Executor,140720513602736,WriteEnd,Escrita concluída
+12476.803955317,3,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5400
+12476.803959713,3,Executor,140720513602720,WriteEnd,Escrita concluída
+12476.803999966,3,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5500
+12476.804028807,3,Executor,140720513602724,WriteEnd,Escrita concluída
+12476.804029695,3,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5500
+12476.804036141,3,Executor,140720513602728,WriteEnd,Escrita concluída
+12476.804047194,3,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5500
+12476.804052977,3,Executor,140720513602732,WriteEnd,Escrita concluída
+12476.804082617,3,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12476.804093046,3,Executor,140720513602736,ReadEnd,Preço lido: 25.5500
+12476.804109963,3,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12476.804113105,3,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12476.804116315,3,Executor,140720513602724,ReadEnd,Preço lido: 25.5500
+12476.804129058,3,Executor,140720513602720,ReadEnd,Preço lido: 25.5500
+12476.804138784,3,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12476.804147808,3,Executor,140720513602728,ReadEnd,Preço lido: 25.5500
+12476.804286629,3,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5600
+12476.804290985,3,Executor,140720513602720,WriteEnd,Escrita concluída
+12476.804407394,3,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5600
+12476.804411936,3,Executor,140720513602736,WriteEnd,Escrita concluída
+12476.804419029,3,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5600
+12476.804423150,3,Executor,140720513602724,WriteEnd,Escrita concluída
+12476.804439835,3,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5600
+12476.804444588,3,Executor,140720513602728,WriteEnd,Escrita concluída
+12476.804731179,3,Análise,-1,Start,Iniciando análise de resultados
+12476.804743754,3,Análise,-1,ContadorCheck,Esperado: 25, Resultado: 9
+12476.804769536,3,Análise,-1,PrecoCheck,Esperado: 25.75, Resultado: 25.56
+12476.804803498,3,Análise,-1,End,Análise concluída
+12477.804981925,4,Main,-1,RunStart,Iniciando nova execução
+12477.805164978,4,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12477.805182025,4,Executor,140720513602720,ReadEnd,Preço lido: 25.5000
+12477.805330457,4,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12477.805344349,4,Executor,140720513602728,ReadEnd,Preço lido: 25.5000
+12477.805267440,4,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12477.805385749,4,Executor,140720513602724,ReadEnd,Preço lido: 25.5000
+12477.805541733,4,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12477.805549084,4,Executor,140720513602732,ReadEnd,Preço lido: 25.5000
+12477.805568276,4,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5100
+12477.805576730,4,Executor,140720513602720,WriteEnd,Escrita concluída
+12477.805602866,4,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12477.805614950,4,Executor,140720513602736,ReadEnd,Preço lido: 25.5100
+12477.805649346,4,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5100
+12477.805652776,4,Executor,140720513602728,WriteEnd,Escrita concluída
+12477.805675388,4,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5100
+12477.805678958,4,Executor,140720513602724,WriteEnd,Escrita concluída
+12477.805717618,4,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12477.805725759,4,Executor,140720513602720,ReadEnd,Preço lido: 25.5100
+12477.805732758,4,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5100
+12477.805742343,4,Executor,140720513602732,WriteEnd,Escrita concluída
+12477.805733535,4,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12477.805764861,4,Executor,140720513602728,ReadEnd,Preço lido: 25.5100
+12477.805783192,4,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12477.805793133,4,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5200
+12477.805795857,4,Executor,140720513602736,WriteEnd,Escrita concluída
+12477.805798988,4,Executor,140720513602724,ReadEnd,Preço lido: 25.5100
+12477.805911068,4,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5200
+12477.805913571,4,Executor,140720513602728,WriteEnd,Escrita concluída
+12477.805916710,4,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12477.805925195,4,Executor,140720513602732,ReadEnd,Preço lido: 25.5200
+12477.805953777,4,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12477.805957691,4,Executor,140720513602736,ReadEnd,Preço lido: 25.5200
+12477.806029615,4,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12477.806035229,4,Executor,140720513602728,ReadEnd,Preço lido: 25.5200
+12477.806056462,4,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5200
+12477.806061464,4,Executor,140720513602724,WriteEnd,Escrita concluída
+12477.806074042,4,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5200
+12477.806080472,4,Executor,140720513602720,WriteEnd,Escrita concluída
+12477.806170568,4,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12477.806180025,4,Executor,140720513602724,ReadEnd,Preço lido: 25.5200
+12477.806205048,4,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5300
+12477.806207450,4,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12477.806217090,4,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5300
+12477.806226176,4,Executor,140720513602732,WriteEnd,Escrita concluída
+12477.806243468,4,Executor,140720513602720,ReadEnd,Preço lido: 25.5300
+12477.806217116,4,Executor,140720513602728,WriteEnd,Escrita concluída
+12477.806254965,4,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5300
+12477.806273799,4,Executor,140720513602736,WriteEnd,Escrita concluída
+12477.806332719,4,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12477.806339035,4,Executor,140720513602732,ReadEnd,Preço lido: 25.5300
+12477.806350195,4,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12477.806355993,4,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12477.806357014,4,Executor,140720513602736,ReadEnd,Preço lido: 25.5300
+12477.806365892,4,Executor,140720513602728,ReadEnd,Preço lido: 25.5300
+12477.806374823,4,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5300
+12477.806456811,4,Executor,140720513602724,WriteEnd,Escrita concluída
+12477.806399099,4,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5400
+12477.806486509,4,Executor,140720513602720,WriteEnd,Escrita concluída
+12477.806584945,4,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12477.806591628,4,Executor,140720513602720,ReadEnd,Preço lido: 25.5400
+12477.806605385,4,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5400
+12477.806608526,4,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5400
+12477.806620040,4,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5400
+12477.806624923,4,Executor,140720513602728,WriteEnd,Escrita concluída
+12477.806616993,4,Executor,140720513602732,WriteEnd,Escrita concluída
+12477.806629898,4,Executor,140720513602736,WriteEnd,Escrita concluída
+12477.806643636,4,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12477.806654475,4,Executor,140720513602724,ReadEnd,Preço lido: 25.5400
+12477.806723530,4,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12477.806731178,4,Executor,140720513602736,ReadEnd,Preço lido: 25.5400
+12477.806751595,4,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12477.806759944,4,Executor,140720513602732,ReadEnd,Preço lido: 25.5400
+12477.806760782,4,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12477.806769559,4,Executor,140720513602728,ReadEnd,Preço lido: 25.5400
+12477.806837696,4,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5500
+12477.806842112,4,Executor,140720513602724,WriteEnd,Escrita concluída
+12477.806888141,4,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5500
+12477.806892747,4,Executor,140720513602736,WriteEnd,Escrita concluída
+12477.806936680,4,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5500
+12477.806941019,4,Executor,140720513602720,WriteEnd,Escrita concluída
+12477.806951502,4,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5500
+12477.806956024,4,Executor,140720513602732,WriteEnd,Escrita concluída
+12477.806991002,4,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12477.806996100,4,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5500
+12477.806996806,4,Executor,140720513602736,ReadEnd,Preço lido: 25.5500
+12477.807020781,4,Executor,140720513602728,WriteEnd,Escrita concluída
+12477.807031105,4,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12477.807040270,4,Executor,140720513602724,ReadEnd,Preço lido: 25.5500
+12477.807110878,4,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12477.807119149,4,Executor,140720513602720,ReadEnd,Preço lido: 25.5500
+12477.807119402,4,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12477.807128153,4,Executor,140720513602732,ReadEnd,Preço lido: 25.5500
+12477.807207578,4,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5600
+12477.807211946,4,Executor,140720513602724,WriteEnd,Escrita concluída
+12477.807297505,4,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5600
+12477.807300716,4,Executor,140720513602736,WriteEnd,Escrita concluída
+12477.807320314,4,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5600
+12477.807323743,4,Executor,140720513602720,WriteEnd,Escrita concluída
+12477.807336882,4,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5600
+12477.807343464,4,Executor,140720513602732,WriteEnd,Escrita concluída
+12477.807648891,4,Análise,-1,Start,Iniciando análise de resultados
+12477.807662956,4,Análise,-1,ContadorCheck,Esperado: 25, Resultado: 10
+12477.807691710,4,Análise,-1,PrecoCheck,Esperado: 25.75, Resultado: 25.56
+12477.807725705,4,Análise,-1,End,Análise concluída
+12478.808083933,5,Main,-1,RunStart,Iniciando nova execução
+12478.808275027,5,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12478.808287287,5,Executor,140720513602720,ReadEnd,Preço lido: 25.5000
+12478.808343598,5,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12478.808478838,5,Executor,140720513602724,ReadEnd,Preço lido: 25.5000
+12478.808346789,5,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12478.808550029,5,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5100
+12478.808552397,5,Executor,140720513602728,ReadEnd,Preço lido: 25.5000
+12478.808561189,5,Executor,140720513602720,WriteEnd,Escrita concluída
+12478.808594052,5,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12478.808604006,5,Executor,140720513602736,ReadEnd,Preço lido: 25.5100
+12478.808407110,5,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12478.808655214,5,Executor,140720513602732,ReadEnd,Preço lido: 25.5100
+12478.808733020,5,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5100
+12478.808736610,5,Executor,140720513602728,WriteEnd,Escrita concluída
+12478.808746181,5,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12478.808753319,5,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5100
+12478.808754418,5,Executor,140720513602720,ReadEnd,Preço lido: 25.5100
+12478.808764449,5,Executor,140720513602724,WriteEnd,Escrita concluída
+12478.808830335,5,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5200
+12478.808835434,5,Executor,140720513602736,WriteEnd,Escrita concluída
+12478.808854279,5,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12478.808866393,5,Executor,140720513602728,ReadEnd,Preço lido: 25.5200
+12478.808925928,5,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5200
+12478.808930942,5,Executor,140720513602732,WriteEnd,Escrita concluída
+12478.808946148,5,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12478.808946266,5,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12478.808961010,5,Executor,140720513602736,ReadEnd,Preço lido: 25.5200
+12478.808965030,5,Executor,140720513602724,ReadEnd,Preço lido: 25.5200
+12478.809088941,5,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12478.809099428,5,Executor,140720513602732,ReadEnd,Preço lido: 25.5200
+12478.809102755,5,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5200
+12478.809106348,5,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5300
+12478.809106947,5,Executor,140720513602720,WriteEnd,Escrita concluída
+12478.809115733,5,Executor,140720513602736,WriteEnd,Escrita concluída
+12478.809184763,5,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5300
+12478.809189630,5,Executor,140720513602728,WriteEnd,Escrita concluída
+12478.809191820,5,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12478.809189288,5,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5300
+12478.809210560,5,Executor,140720513602736,ReadEnd,Preço lido: 25.5300
+12478.809212727,5,Executor,140720513602724,WriteEnd,Escrita concluída
+12478.809288355,5,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12478.809296968,5,Executor,140720513602720,ReadEnd,Preço lido: 25.5300
+12478.809340630,5,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12478.809349718,5,Executor,140720513602728,ReadEnd,Preço lido: 25.5300
+12478.809372458,5,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12478.809372434,5,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5300
+12478.809385294,5,Executor,140720513602724,ReadEnd,Preço lido: 25.5300
+12478.809389034,5,Executor,140720513602732,WriteEnd,Escrita concluída
+12478.809435177,5,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5400
+12478.809439973,5,Executor,140720513602720,WriteEnd,Escrita concluída
+12478.809440466,5,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5400
+12478.809455170,5,Executor,140720513602736,WriteEnd,Escrita concluída
+12478.809485425,5,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12478.809492167,5,Executor,140720513602732,ReadEnd,Preço lido: 25.5400
+12478.809530661,5,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12478.809540237,5,Executor,140720513602720,ReadEnd,Preço lido: 25.5400
+12478.809555573,5,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5400
+12478.809680317,5,Executor,140720513602728,WriteEnd,Escrita concluída
+12478.809556855,5,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12478.809706662,5,Executor,140720513602736,ReadEnd,Preço lido: 25.5400
+12478.809626959,5,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5400
+12478.809760180,5,Executor,140720513602724,WriteEnd,Escrita concluída
+12478.809821110,5,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5500
+12478.809827034,5,Executor,140720513602732,WriteEnd,Escrita concluída
+12478.809832197,5,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12478.809842501,5,Executor,140720513602728,ReadEnd,Preço lido: 25.5500
+12478.809850402,5,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5500
+12478.809854684,5,Executor,140720513602720,WriteEnd,Escrita concluída
+12478.809908755,5,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12478.809918189,5,Executor,140720513602724,ReadEnd,Preço lido: 25.5500
+12478.809928317,5,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5500
+12478.809933190,5,Executor,140720513602736,WriteEnd,Escrita concluída
+12478.809934867,5,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12478.809943057,5,Executor,140720513602732,ReadEnd,Preço lido: 25.5500
+12478.809965596,5,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12478.809973359,5,Executor,140720513602720,ReadEnd,Preço lido: 25.5500
+12478.809987337,5,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5600
+12478.809991945,5,Executor,140720513602728,WriteEnd,Escrita concluída
+12478.810030693,5,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12478.810037460,5,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5600
+12478.810038785,5,Executor,140720513602736,ReadEnd,Preço lido: 25.5600
+12478.810040072,5,Executor,140720513602724,WriteEnd,Escrita concluída
+12478.810093978,5,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12478.810101076,5,Executor,140720513602728,ReadEnd,Preço lido: 25.5600
+12478.810166458,5,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12478.810170579,5,Executor,140720513602724,ReadEnd,Preço lido: 25.5600
+12478.810234084,5,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5600
+12478.810238459,5,Executor,140720513602732,WriteEnd,Escrita concluída
+12478.810266627,5,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5700
+12478.810272007,5,Executor,140720513602736,WriteEnd,Escrita concluída
+12478.810274704,5,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5600
+12478.810277942,5,Executor,140720513602720,WriteEnd,Escrita concluída
+12478.810373887,5,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12478.810382913,5,Executor,140720513602732,ReadEnd,Preço lido: 25.5600
+12478.810404005,5,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5700
+12478.810410586,5,Executor,140720513602728,WriteEnd,Escrita concluída
+12478.810523535,5,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5700
+12478.810529080,5,Executor,140720513602724,WriteEnd,Escrita concluída
+12478.810625328,5,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5700
+12478.810628436,5,Executor,140720513602732,WriteEnd,Escrita concluída
+12478.810908681,5,Análise,-1,Start,Iniciando análise de resultados
+12478.810931230,5,Análise,-1,ContadorCheck,Esperado: 25, Resultado: 11
+12478.810977729,5,Análise,-1,PrecoCheck,Esperado: 25.75, Resultado: 25.57
+12478.811033510,5,Análise,-1,End,Análise concluída
+12479.811320454,6,Main,-1,RunStart,Iniciando nova execução
+12479.811508846,6,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12479.811520603,6,Executor,140720513602720,ReadEnd,Preço lido: 25.5000
+12479.811552072,6,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12479.811563351,6,Executor,140720513602724,ReadEnd,Preço lido: 25.5000
+12479.811591540,6,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12479.811761354,6,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5100
+12479.811763950,6,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5100
+12479.811778270,6,Executor,140720513602728,ReadEnd,Preço lido: 25.5000
+12479.811774599,6,Executor,140720513602724,WriteEnd,Escrita concluída
+12479.811781732,6,Executor,140720513602720,WriteEnd,Escrita concluída
+12479.811656281,6,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12479.811888478,6,Executor,140720513602732,ReadEnd,Preço lido: 25.5100
+12479.811894312,6,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12479.811912501,6,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12479.811920892,6,Executor,140720513602724,ReadEnd,Preço lido: 25.5100
+12479.811932482,6,Executor,140720513602736,ReadEnd,Preço lido: 25.5100
+12479.811962092,6,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5100
+12479.811967411,6,Executor,140720513602728,WriteEnd,Escrita concluída
+12479.812061117,6,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5200
+12479.812065280,6,Executor,140720513602724,WriteEnd,Escrita concluída
+12479.812116378,6,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12479.812127123,6,Executor,140720513602720,ReadEnd,Preço lido: 25.5200
+12479.812142128,6,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12479.812153526,6,Executor,140720513602728,ReadEnd,Preço lido: 25.5200
+12479.812164447,6,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5200
+12479.812170572,6,Executor,140720513602736,WriteEnd,Escrita concluída
+12479.812193828,6,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5200
+12479.812199298,6,Executor,140720513602732,WriteEnd,Escrita concluída
+12479.812220594,6,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12479.812227551,6,Executor,140720513602724,ReadEnd,Preço lido: 25.5200
+12479.812255093,6,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12479.812259281,6,Executor,140720513602736,ReadEnd,Preço lido: 25.5200
+12479.812314013,6,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12479.812320824,6,Executor,140720513602732,ReadEnd,Preço lido: 25.5200
+12479.812432089,6,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5300
+12479.812435095,6,Executor,140720513602720,WriteEnd,Escrita concluída
+12479.812441501,6,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5300
+12479.812446673,6,Executor,140720513602728,WriteEnd,Escrita concluída
+12479.812550358,6,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5300
+12479.812549705,6,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12479.812559757,6,Executor,140720513602724,WriteEnd,Escrita concluída
+12479.812558557,6,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5300
+12479.812570621,6,Executor,140720513602728,ReadEnd,Preço lido: 25.5300
+12479.812574083,6,Executor,140720513602736,WriteEnd,Escrita concluída
+12479.812598466,6,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12479.812603565,6,Executor,140720513602720,ReadEnd,Preço lido: 25.5300
+12479.812647360,6,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5300
+12479.812653692,6,Executor,140720513602732,WriteEnd,Escrita concluída
+12479.812694250,6,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12479.812700649,6,Executor,140720513602724,ReadEnd,Preço lido: 25.5300
+12479.812727203,6,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12479.812735892,6,Executor,140720513602736,ReadEnd,Preço lido: 25.5300
+12479.812740266,6,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12479.812748059,6,Executor,140720513602732,ReadEnd,Preço lido: 25.5300
+12479.812843057,6,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5400
+12479.812845021,6,Executor,140720513602720,WriteEnd,Escrita concluída
+12479.812847010,6,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5400
+12479.813338375,6,Executor,140720513602728,WriteEnd,Escrita concluída
+12479.812948558,6,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12479.813388772,6,Executor,140720513602720,ReadEnd,Preço lido: 25.5400
+12479.812991912,6,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5400
+12479.813419646,6,Executor,140720513602736,WriteEnd,Escrita concluída
+12479.813037994,6,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5400
+12479.813461379,6,Executor,140720513602732,WriteEnd,Escrita concluída
+12479.813490671,6,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12479.813041470,6,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5400
+12479.813503100,6,Executor,140720513602728,ReadEnd,Preço lido: 25.5400
+12479.813514752,6,Executor,140720513602724,WriteEnd,Escrita concluída
+12479.813575043,6,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12479.813581959,6,Executor,140720513602736,ReadEnd,Preço lido: 25.5400
+12479.813587360,6,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12479.813595158,6,Executor,140720513602732,ReadEnd,Preço lido: 25.5400
+12479.813687643,6,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12479.813698216,6,Executor,140720513602724,ReadEnd,Preço lido: 25.5400
+12479.813703388,6,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5500
+12479.813709400,6,Executor,140720513602720,WriteEnd,Escrita concluída
+12479.813820644,6,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12479.813825212,6,Executor,140720513602720,ReadEnd,Preço lido: 25.5500
+12479.813844174,6,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5500
+12479.813850270,6,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5500
+12479.813844567,6,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5500
+12479.813853881,6,Executor,140720513602724,WriteEnd,Escrita concluída
+12479.813862723,6,Executor,140720513602728,WriteEnd,Escrita concluída
+12479.813854235,6,Executor,140720513602736,WriteEnd,Escrita concluída
+12479.813889925,6,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5500
+12479.813895435,6,Executor,140720513602732,WriteEnd,Escrita concluída
+12479.813966041,6,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5600
+12479.813968131,6,Executor,140720513602720,WriteEnd,Escrita concluída
+12479.814031230,6,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12479.814037895,6,Executor,140720513602732,ReadEnd,Preço lido: 25.5600
+12479.814039048,6,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12479.814039495,6,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12479.814053662,6,Executor,140720513602736,ReadEnd,Preço lido: 25.5600
+12479.814058346,6,Executor,140720513602728,ReadEnd,Preço lido: 25.5600
+12479.814237234,6,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5700
+12479.814239328,6,Executor,140720513602732,WriteEnd,Escrita concluída
+12479.814310630,6,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5700
+12479.814315607,6,Executor,140720513602736,WriteEnd,Escrita concluída
+12479.814369600,6,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5700
+12479.814374181,6,Executor,140720513602728,WriteEnd,Escrita concluída
+12479.814653558,6,Análise,-1,Start,Iniciando análise de resultados
+12479.814666138,6,Análise,-1,ContadorCheck,Esperado: 25, Resultado: 12
+12479.814692435,6,Análise,-1,PrecoCheck,Esperado: 25.75, Resultado: 25.57
+12479.814729656,6,Análise,-1,End,Análise concluída
+12480.814957677,7,Main,-1,RunStart,Iniciando nova execução
+12480.815153231,7,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12480.815164462,7,Executor,140720513602720,ReadEnd,Preço lido: 25.5000
+12480.815228279,7,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12480.815228704,7,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12480.815232716,7,Executor,140720513602728,ReadEnd,Preço lido: 25.5000
+12480.815238463,7,Executor,140720513602724,ReadEnd,Preço lido: 25.5000
+12480.815296705,7,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12480.815432889,7,Executor,140720513602732,ReadEnd,Preço lido: 25.5000
+12480.815339951,7,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5100
+12480.815453042,7,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12480.815458354,7,Executor,140720513602720,WriteEnd,Escrita concluída
+12480.815462051,7,Executor,140720513602736,ReadEnd,Preço lido: 25.5100
+12480.815575357,7,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5100
+12480.815577969,7,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12480.815585677,7,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5100
+12480.815580357,7,Executor,140720513602728,WriteEnd,Escrita concluída
+12480.815595524,7,Executor,140720513602724,WriteEnd,Escrita concluída
+12480.815593050,7,Executor,140720513602720,ReadEnd,Preço lido: 25.5100
+12480.815645725,7,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5100
+12480.815649175,7,Executor,140720513602732,WriteEnd,Escrita concluída
+12480.815733557,7,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12480.815738505,7,Executor,140720513602728,ReadEnd,Preço lido: 25.5100
+12480.815736735,7,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12480.815757287,7,Executor,140720513602732,ReadEnd,Preço lido: 25.5100
+12480.815755218,7,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12480.815780426,7,Executor,140720513602724,ReadEnd,Preço lido: 25.5100
+12480.815780573,7,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5200
+12480.815796266,7,Executor,140720513602720,WriteEnd,Escrita concluída
+12480.815795391,7,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5200
+12480.815810977,7,Executor,140720513602736,WriteEnd,Escrita concluída
+12480.815922136,7,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12480.815931328,7,Executor,140720513602736,ReadEnd,Preço lido: 25.5200
+12480.815950909,7,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12480.815959231,7,Executor,140720513602720,ReadEnd,Preço lido: 25.5200
+12480.815999143,7,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5200
+12480.816032459,7,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5200
+12480.816034470,7,Executor,140720513602728,WriteEnd,Escrita concluída
+12480.816042716,7,Executor,140720513602724,WriteEnd,Escrita concluída
+12480.816090929,7,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5300
+12480.816096846,7,Executor,140720513602736,WriteEnd,Escrita concluída
+12480.816099797,7,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5300
+12480.816104883,7,Executor,140720513602720,WriteEnd,Escrita concluída
+12480.816109019,7,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5200
+12480.816113619,7,Executor,140720513602732,WriteEnd,Escrita concluída
+12480.816134273,7,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12480.816142221,7,Executor,140720513602724,ReadEnd,Preço lido: 25.5200
+12480.816191516,7,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12480.816201813,7,Executor,140720513602736,ReadEnd,Preço lido: 25.5200
+12480.816221331,7,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12480.816231517,7,Executor,140720513602720,ReadEnd,Preço lido: 25.5200
+12480.816233087,7,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12480.816241556,7,Executor,140720513602728,ReadEnd,Preço lido: 25.5200
+12480.816256416,7,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12480.816265806,7,Executor,140720513602732,ReadEnd,Preço lido: 25.5200
+12480.816429085,7,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5300
+12480.816432215,7,Executor,140720513602732,WriteEnd,Escrita concluída
+12480.816434148,7,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5300
+12480.816439330,7,Executor,140720513602728,WriteEnd,Escrita concluída
+12480.816540446,7,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5300
+12480.816547123,7,Executor,140720513602720,WriteEnd,Escrita concluída
+12480.816466691,7,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5300
+12480.816581187,7,Executor,140720513602724,WriteEnd,Escrita concluída
+12480.816477377,7,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5300
+12480.816604415,7,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12480.816610961,7,Executor,140720513602732,ReadEnd,Preço lido: 25.5300
+12480.816612204,7,Executor,140720513602736,WriteEnd,Escrita concluída
+12480.816655114,7,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12480.816665208,7,Executor,140720513602728,ReadEnd,Preço lido: 25.5300
+12480.816700649,7,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12480.816708018,7,Executor,140720513602720,ReadEnd,Preço lido: 25.5300
+12480.816744332,7,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12480.816754361,7,Executor,140720513602724,ReadEnd,Preço lido: 25.5300
+12480.816769803,7,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12480.816779686,7,Executor,140720513602736,ReadEnd,Preço lido: 25.5300
+12480.816886109,7,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5400
+12480.816890129,7,Executor,140720513602720,WriteEnd,Escrita concluída
+12480.816900124,7,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5400
+12480.816906218,7,Executor,140720513602728,WriteEnd,Escrita concluída
+12480.816943262,7,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5400
+12480.816947562,7,Executor,140720513602732,WriteEnd,Escrita concluída
+12480.816964376,7,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5400
+12480.816968755,7,Executor,140720513602724,WriteEnd,Escrita concluída
+12480.817024563,7,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5400
+12480.817030701,7,Executor,140720513602736,WriteEnd,Escrita concluída
+12480.817038947,7,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12480.817043929,7,Executor,140720513602728,ReadEnd,Preço lido: 25.5400
+12480.817096668,7,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12480.817104868,7,Executor,140720513602732,ReadEnd,Preço lido: 25.5400
+12480.817139422,7,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12480.817149060,7,Executor,140720513602724,ReadEnd,Preço lido: 25.5400
+12480.817176690,7,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5500
+12480.817178945,7,Executor,140720513602728,WriteEnd,Escrita concluída
+12480.817182731,7,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12480.817191955,7,Executor,140720513602736,ReadEnd,Preço lido: 25.5500
+12480.817435136,7,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5500
+12480.817438817,7,Executor,140720513602732,WriteEnd,Escrita concluída
+12480.817449101,7,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5500
+12480.817454073,7,Executor,140720513602724,WriteEnd,Escrita concluída
+12480.817489629,7,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5600
+12480.817494151,7,Executor,140720513602736,WriteEnd,Escrita concluída
+12480.817744920,7,Análise,-1,Start,Iniciando análise de resultados
+12480.817760458,7,Análise,-1,ContadorCheck,Esperado: 25, Resultado: 9
+12480.817790054,7,Análise,-1,PrecoCheck,Esperado: 25.75, Resultado: 25.56
+12480.817820395,7,Análise,-1,End,Análise concluída
+12481.818196271,8,Main,-1,RunStart,Iniciando nova execução
+12481.818364009,8,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12481.818375190,8,Executor,140720513602720,ReadEnd,Preço lido: 25.5000
+12481.818434855,8,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12481.818444651,8,Executor,140720513602724,ReadEnd,Preço lido: 25.5000
+12481.818445632,8,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12481.818449843,8,Executor,140720513602728,ReadEnd,Preço lido: 25.5000
+12481.818502386,8,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12481.818625578,8,Executor,140720513602732,ReadEnd,Preço lido: 25.5000
+12481.818686106,8,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5100
+12481.818691671,8,Executor,140720513602720,WriteEnd,Escrita concluída
+12481.818710694,8,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5100
+12481.818715649,8,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12481.818716766,8,Executor,140720513602724,WriteEnd,Escrita concluída
+12481.818731386,8,Executor,140720513602736,ReadEnd,Preço lido: 25.5100
+12481.818779512,8,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5100
+12481.818783588,8,Executor,140720513602728,WriteEnd,Escrita concluída
+12481.818791704,8,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5100
+12481.818797529,8,Executor,140720513602732,WriteEnd,Escrita concluída
+12481.818802153,8,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12481.818807514,8,Executor,140720513602720,ReadEnd,Preço lido: 25.5100
+12481.818869133,8,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12481.818873392,8,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5200
+12481.818874026,8,Executor,140720513602728,ReadEnd,Preço lido: 25.5100
+12481.818882574,8,Executor,140720513602736,WriteEnd,Escrita concluída
+12481.818895399,8,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12481.818906337,8,Executor,140720513602724,ReadEnd,Preço lido: 25.5200
+12481.818912510,8,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12481.818923039,8,Executor,140720513602732,ReadEnd,Preço lido: 25.5200
+12481.818970656,8,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5200
+12481.818976360,8,Executor,140720513602720,WriteEnd,Escrita concluída
+12481.818975926,8,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12481.818994810,8,Executor,140720513602736,ReadEnd,Preço lido: 25.5200
+12481.819107891,8,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12481.819117716,8,Executor,140720513602720,ReadEnd,Preço lido: 25.5200
+12481.819119616,8,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5300
+12481.819125008,8,Executor,140720513602732,WriteEnd,Escrita concluída
+12481.819194582,8,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5200
+12481.819198419,8,Executor,140720513602728,WriteEnd,Escrita concluída
+12481.819241079,8,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12481.819247690,8,Executor,140720513602732,ReadEnd,Preço lido: 25.5200
+12481.819262561,8,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5300
+12481.819267442,8,Executor,140720513602724,WriteEnd,Escrita concluída
+12481.819329876,8,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12481.819334820,8,Executor,140720513602728,ReadEnd,Preço lido: 25.5300
+12481.819335280,8,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5300
+12481.819349435,8,Executor,140720513602736,WriteEnd,Escrita concluída
+12481.819387352,8,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5300
+12481.819391250,8,Executor,140720513602720,WriteEnd,Escrita concluída
+12481.819394177,8,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12481.819399492,8,Executor,140720513602724,ReadEnd,Preço lido: 25.5300
+12481.819466428,8,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12481.819473595,8,Executor,140720513602736,ReadEnd,Preço lido: 25.5300
+12481.819501454,8,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5300
+12481.819506239,8,Executor,140720513602732,WriteEnd,Escrita concluída
+12481.819524155,8,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12481.819531183,8,Executor,140720513602720,ReadEnd,Preço lido: 25.5300
+12481.819659496,8,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5400
+12481.819664787,8,Executor,140720513602724,WriteEnd,Escrita concluída
+12481.819681227,8,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5400
+12481.819762242,8,Executor,140720513602720,WriteEnd,Escrita concluída
+12481.819687023,8,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5400
+12481.819842085,8,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12481.819842114,8,Executor,140720513602736,WriteEnd,Escrita concluída
+12481.819860552,8,Executor,140720513602724,ReadEnd,Preço lido: 25.5400
+12481.819685361,8,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12481.819903446,8,Executor,140720513602732,ReadEnd,Preço lido: 25.5400
+12481.819664772,8,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5400
+12481.819923733,8,Executor,140720513602728,WriteEnd,Escrita concluída
+12481.819944886,8,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12481.819952052,8,Executor,140720513602720,ReadEnd,Preço lido: 25.5400
+12481.819980079,8,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12481.819988740,8,Executor,140720513602736,ReadEnd,Preço lido: 25.5400
+12481.820040808,8,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12481.820046458,8,Executor,140720513602728,ReadEnd,Preço lido: 25.5400
+12481.820056403,8,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5500
+12481.820058695,8,Executor,140720513602724,WriteEnd,Escrita concluída
+12481.820131658,8,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5500
+12481.820136898,8,Executor,140720513602720,WriteEnd,Escrita concluída
+12481.820195616,8,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5500
+12481.820200126,8,Executor,140720513602732,WriteEnd,Escrita concluída
+12481.820240176,8,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12481.820248501,8,Executor,140720513602724,ReadEnd,Preço lido: 25.5500
+12481.820290477,8,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5500
+12481.820294134,8,Executor,140720513602736,WriteEnd,Escrita concluída
+12481.820292693,8,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12481.820309686,8,Executor,140720513602732,ReadEnd,Preço lido: 25.5500
+12481.820382780,8,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5500
+12481.820389062,8,Executor,140720513602728,WriteEnd,Escrita concluída
+12481.820423948,8,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12481.820431835,8,Executor,140720513602736,ReadEnd,Preço lido: 25.5500
+12481.820504887,8,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5600
+12481.820508521,8,Executor,140720513602732,WriteEnd,Escrita concluída
+12481.820511686,8,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12481.820517182,8,Executor,140720513602728,ReadEnd,Preço lido: 25.5600
+12481.820556475,8,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5600
+12481.820560582,8,Executor,140720513602724,WriteEnd,Escrita concluída
+12481.820775107,8,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5600
+12481.820779364,8,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5700
+12481.820786528,8,Executor,140720513602736,WriteEnd,Escrita concluída
+12481.820790374,8,Executor,140720513602728,WriteEnd,Escrita concluída
+12481.821055529,8,Análise,-1,Start,Iniciando análise de resultados
+12481.821076166,8,Análise,-1,ContadorCheck,Esperado: 25, Resultado: 12
+12481.821117015,8,Análise,-1,PrecoCheck,Esperado: 25.75, Resultado: 25.57
+12481.821154861,8,Análise,-1,End,Análise concluída
+12482.821283143,9,Main,-1,RunStart,Iniciando nova execução
+12482.821462296,9,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12482.821474323,9,Executor,140720513602720,ReadEnd,Preço lido: 25.5000
+12482.821515750,9,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12482.821526348,9,Executor,140720513602724,ReadEnd,Preço lido: 25.5000
+12482.821593202,9,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12482.821604200,9,Executor,140720513602728,ReadEnd,Preço lido: 25.5000
+12482.821616337,9,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12482.821622019,9,Executor,140720513602732,ReadEnd,Preço lido: 25.5000
+12482.821780517,9,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12482.821786516,9,Executor,140720513602736,ReadEnd,Preço lido: 25.5000
+12482.821786888,9,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5100
+12482.821789643,9,Executor,140720513602720,WriteEnd,Escrita concluída
+12482.821849360,9,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5100
+12482.821855965,9,Executor,140720513602724,WriteEnd,Escrita concluída
+12482.821923703,9,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5100
+12482.821926724,9,Executor,140720513602728,WriteEnd,Escrita concluída
+12482.821935465,9,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12482.821942368,9,Executor,140720513602720,ReadEnd,Preço lido: 25.5100
+12482.821988745,9,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12482.822045437,9,Executor,140720513602724,ReadEnd,Preço lido: 25.5100
+12482.822081073,9,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12482.822087378,9,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5100
+12482.822091832,9,Executor,140720513602728,ReadEnd,Preço lido: 25.5100
+12482.822103571,9,Executor,140720513602736,WriteEnd,Escrita concluída
+12482.822129860,9,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5100
+12482.822136597,9,Executor,140720513602732,WriteEnd,Escrita concluída
+12482.822183544,9,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5200
+12482.822187330,9,Executor,140720513602720,WriteEnd,Escrita concluída
+12482.822232813,9,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5200
+12482.822234320,9,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12482.822243351,9,Executor,140720513602724,WriteEnd,Escrita concluída
+12482.822250059,9,Executor,140720513602736,ReadEnd,Preço lido: 25.5200
+12482.822298956,9,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12482.822308640,9,Executor,140720513602732,ReadEnd,Preço lido: 25.5200
+12482.822336659,9,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5200
+12482.822341297,9,Executor,140720513602728,WriteEnd,Escrita concluída
+12482.822372941,9,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12482.822377201,9,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12482.822381039,9,Executor,140720513602724,ReadEnd,Preço lido: 25.5200
+12482.822392496,9,Executor,140720513602720,ReadEnd,Preço lido: 25.5200
+12482.822459499,9,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5300
+12482.822464058,9,Executor,140720513602736,WriteEnd,Escrita concluída
+12482.822511819,9,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12482.822520809,9,Executor,140720513602728,ReadEnd,Preço lido: 25.5300
+12482.822547322,9,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12482.822554114,9,Executor,140720513602736,ReadEnd,Preço lido: 25.5300
+12482.822589564,9,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5300
+12482.822594118,9,Executor,140720513602720,WriteEnd,Escrita concluída
+12482.822599713,9,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5300
+12482.822604253,9,Executor,140720513602732,WriteEnd,Escrita concluída
+12482.822656467,9,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5400
+12482.822660939,9,Executor,140720513602728,WriteEnd,Escrita concluída
+12482.822662266,9,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5300
+12482.822667707,9,Executor,140720513602724,WriteEnd,Escrita concluída
+12482.822701335,9,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12482.822707925,9,Executor,140720513602720,ReadEnd,Preço lido: 25.5300
+12482.822732235,9,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12482.822740982,9,Executor,140720513602732,ReadEnd,Preço lido: 25.5300
+12482.822785561,9,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12482.822793581,9,Executor,140720513602728,ReadEnd,Preço lido: 25.5300
+12482.822803034,9,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12482.822895205,9,Executor,140720513602724,ReadEnd,Preço lido: 25.5300
+12482.822918117,9,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5400
+12482.822922018,9,Executor,140720513602732,WriteEnd,Escrita concluída
+12482.822850964,9,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5400
+12482.822975826,9,Executor,140720513602720,WriteEnd,Escrita concluída
+12482.823035561,9,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5400
+12482.823042144,9,Executor,140720513602728,WriteEnd,Escrita concluída
+12482.823045962,9,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12482.823046295,9,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5400
+12482.823059916,9,Executor,140720513602732,ReadEnd,Preço lido: 25.5400
+12482.823062361,9,Executor,140720513602736,WriteEnd,Escrita concluída
+12482.823079818,9,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12482.823094589,9,Executor,140720513602720,ReadEnd,Preço lido: 25.5400
+12482.823129929,9,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12482.823138911,9,Executor,140720513602728,ReadEnd,Preço lido: 25.5400
+12482.823155319,9,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12482.823162388,9,Executor,140720513602736,ReadEnd,Preço lido: 25.5400
+12482.823206416,9,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5500
+12482.823210710,9,Executor,140720513602732,WriteEnd,Escrita concluída
+12482.823220649,9,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5400
+12482.823223563,9,Executor,140720513602724,WriteEnd,Escrita concluída
+12482.823368669,9,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5500
+12482.823371501,9,Executor,140720513602736,WriteEnd,Escrita concluída
+12482.823384001,9,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12482.823390747,9,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5500
+12482.823392550,9,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12482.823393909,9,Executor,140720513602732,ReadEnd,Preço lido: 25.5500
+12482.823393300,9,Executor,140720513602720,WriteEnd,Escrita concluída
+12482.823401793,9,Executor,140720513602724,ReadEnd,Preço lido: 25.5500
+12482.823425221,9,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5500
+12482.823429847,9,Executor,140720513602728,WriteEnd,Escrita concluída
+12482.823516450,9,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12482.823521568,9,Executor,140720513602736,ReadEnd,Preço lido: 25.5500
+12482.823549488,9,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5600
+12482.823551606,9,Executor,140720513602724,WriteEnd,Escrita concluída
+12482.823619963,9,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5600
+12482.823626345,9,Executor,140720513602732,WriteEnd,Escrita concluída
+12482.823750328,9,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5600
+12482.823755899,9,Executor,140720513602736,WriteEnd,Escrita concluída
+12482.824025916,9,Análise,-1,Start,Iniciando análise de resultados
+12482.824048195,9,Análise,-1,ContadorCheck,Esperado: 25, Resultado: 10
+12482.824084282,9,Análise,-1,PrecoCheck,Esperado: 25.75, Resultado: 25.56
+12482.824113900,9,Análise,-1,End,Análise concluída
+12483.824462679,10,Main,-1,RunStart,Iniciando nova execução
+12483.824666581,10,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12483.824691718,10,Executor,140720513602720,ReadEnd,Preço lido: 25.5000
+12483.824725315,10,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12483.824736654,10,Executor,140720513602724,ReadEnd,Preço lido: 25.5000
+12483.824757391,10,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12483.824772944,10,Executor,140720513602728,ReadEnd,Preço lido: 25.5000
+12483.824852389,10,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12483.824863708,10,Executor,140720513602732,ReadEnd,Preço lido: 25.5000
+12483.825044905,10,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5100
+12483.825182619,10,Executor,140720513602720,WriteEnd,Escrita concluída
+12483.825046289,10,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12483.825250160,10,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5100
+12483.825257389,10,Executor,140720513602732,WriteEnd,Escrita concluída
+12483.825282577,10,Executor,140720513602736,ReadEnd,Preço lido: 25.5100
+12483.825339542,10,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12483.825048736,10,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5100
+12483.825349599,10,Executor,140720513602720,ReadEnd,Preço lido: 25.5100
+12483.825372134,10,Executor,140720513602724,WriteEnd,Escrita concluída
+12483.825388877,10,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12483.825400025,10,Executor,140720513602732,ReadEnd,Preço lido: 25.5100
+12483.825090647,10,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5100
+12483.825419245,10,Executor,140720513602728,WriteEnd,Escrita concluída
+12483.825462610,10,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12483.825471080,10,Executor,140720513602724,ReadEnd,Preço lido: 25.5100
+12483.825540776,10,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12483.825549018,10,Executor,140720513602728,ReadEnd,Preço lido: 25.5100
+12483.825553303,10,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5200
+12483.825557486,10,Executor,140720513602736,WriteEnd,Escrita concluída
+12483.825621997,10,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5200
+12483.825626527,10,Executor,140720513602720,WriteEnd,Escrita concluída
+12483.825665345,10,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5200
+12483.825669785,10,Executor,140720513602732,WriteEnd,Escrita concluída
+12483.825674069,10,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12483.825684858,10,Executor,140720513602736,ReadEnd,Preço lido: 25.5200
+12483.825716471,10,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5200
+12483.825721025,10,Executor,140720513602728,WriteEnd,Escrita concluída
+12483.825756888,10,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5200
+12483.825761731,10,Executor,140720513602724,WriteEnd,Escrita concluída
+12483.825761633,10,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12483.825783487,10,Executor,140720513602720,ReadEnd,Preço lido: 25.5200
+12483.825794117,10,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12483.825804119,10,Executor,140720513602732,ReadEnd,Preço lido: 25.5200
+12483.825812168,10,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12483.825822247,10,Executor,140720513602728,ReadEnd,Preço lido: 25.5200
+12483.825841840,10,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5300
+12483.825848430,10,Executor,140720513602736,WriteEnd,Escrita concluída
+12483.825875479,10,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12483.825882544,10,Executor,140720513602724,ReadEnd,Preço lido: 25.5300
+12483.825943207,10,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5300
+12483.825947318,10,Executor,140720513602732,WriteEnd,Escrita concluída
+12483.825983108,10,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12483.825989851,10,Executor,140720513602736,ReadEnd,Preço lido: 25.5300
+12483.826034466,10,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5300
+12483.826037563,10,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5400
+12483.826041869,10,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12483.826049709,10,Executor,140720513602724,WriteEnd,Escrita concluída
+12483.826040310,10,Executor,140720513602720,WriteEnd,Escrita concluída
+12483.826058414,10,Executor,140720513602732,ReadEnd,Preço lido: 25.5400
+12483.826149738,10,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12483.826152633,10,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5300
+12483.826165866,10,Executor,140720513602724,ReadEnd,Preço lido: 25.5400
+12483.826168280,10,Executor,140720513602728,WriteEnd,Escrita concluída
+12483.826316979,10,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5500
+12483.826323066,10,Executor,140720513602732,WriteEnd,Escrita concluída
+12483.826341893,10,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5400
+12483.826349031,10,Executor,140720513602736,WriteEnd,Escrita concluída
+12483.826192991,10,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12483.826371310,10,Executor,140720513602720,ReadEnd,Preço lido: 25.5400
+12483.826431746,10,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12483.826440411,10,Executor,140720513602728,ReadEnd,Preço lido: 25.5400
+12483.826494015,10,Executor,140720513602732,ReadStart,Tentando ler o preço da PETR4
+12483.826502603,10,Executor,140720513602732,ReadEnd,Preço lido: 25.5400
+12483.826515825,10,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12483.826525126,10,Executor,140720513602736,ReadEnd,Preço lido: 25.5400
+12483.826547163,10,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5500
+12483.826550911,10,Executor,140720513602724,WriteEnd,Escrita concluída
+12483.826600354,10,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5500
+12483.826604688,10,Executor,140720513602728,WriteEnd,Escrita concluída
+12483.826647063,10,Executor,140720513602724,ReadStart,Tentando ler o preço da PETR4
+12483.826657277,10,Executor,140720513602724,ReadEnd,Preço lido: 25.5500
+12483.826659892,10,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5500
+12483.826664371,10,Executor,140720513602720,WriteEnd,Escrita concluída
+12483.826695767,10,Executor,140720513602728,ReadStart,Tentando ler o preço da PETR4
+12483.826704324,10,Executor,140720513602728,ReadEnd,Preço lido: 25.5500
+12483.826770044,10,Executor,140720513602732,WriteStart,Preço a ser escrito: 25.5500
+12483.826774425,10,Executor,140720513602732,WriteEnd,Escrita concluída
+12483.826828342,10,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5500
+12483.826833013,10,Executor,140720513602736,WriteEnd,Escrita concluída
+12483.826835842,10,Executor,140720513602720,ReadStart,Tentando ler o preço da PETR4
+12483.826846075,10,Executor,140720513602720,ReadEnd,Preço lido: 25.5500
+12483.826933808,10,Executor,140720513602736,ReadStart,Tentando ler o preço da PETR4
+12483.826942553,10,Executor,140720513602736,ReadEnd,Preço lido: 25.5500
+12483.826942209,10,Executor,140720513602724,WriteStart,Preço a ser escrito: 25.5600
+12483.826955686,10,Executor,140720513602724,WriteEnd,Escrita concluída
+12483.826989240,10,Executor,140720513602728,WriteStart,Preço a ser escrito: 25.5600
+12483.826994305,10,Executor,140720513602728,WriteEnd,Escrita concluída
+12483.827047909,10,Executor,140720513602720,WriteStart,Preço a ser escrito: 25.5600
+12483.827052896,10,Executor,140720513602720,WriteEnd,Escrita concluída
+12483.827196850,10,Executor,140720513602736,WriteStart,Preço a ser escrito: 25.5600
+12483.827201081,10,Executor,140720513602736,WriteEnd,Escrita concluída
+12483.827504780,10,Análise,-1,Start,Iniciando análise de resultados
+12483.827521622,10,Análise,-1,ContadorCheck,Esperado: 25, Resultado: 11
+12483.827557720,10,Análise,-1,PrecoCheck,Esperado: 25.75, Resultado: 25.56
+12483.827591859,10,Análise,-1,End,Análise concluída

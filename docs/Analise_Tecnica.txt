@@ -1,0 +1,67 @@
+📊 Análise Técnica
+
+1) Tipos específicos de race conditions observadas
+
+- Corrupção de preços: observamos situações onde o preço de uma ação foi atualizado simultaneamente por duas fontes (thread do atualizador e executor), resultando em valores absurdos ou negativos. Ex: o preço da "PETR4" saltou de R$ 33,50 para R$ ‑120.000,00 em uma atualização errada.
+- Ordens perdidas: em cenários de alta geração de ordens, múltiplos traders gravaram na mesma posição do array global de ordens antes de serem processadas, fazendo com que algumas ordens fossem sobrescritas e nunca executadas.
+
+---
+
+2) Exemplos concretos de logs coletados
+
+[TRADER‑1] Enviando: COMPRA 50 VALE3 @ 68.20 (timestamp 1712365123)
+[TRADER‑3] Enviando: VENDA 30 ITUB4 @ 28.90 (timestamp 1712365124)
+[EXECUTOR‑1] Executando: COMPRA 50 VALE3 @ 68.20 → sucesso
+[EXECUTOR‑2] Executando: VENDA 30 ITUB4 @ 28.90 → sucesso
+[ATUALIZADOR] Atualizou PETR4: antigo 33.50 → novo 33.75
+[ATUALIZADOR] Corrupção detectada: PETR4: 33.50 → ‑120000.00
+[TRADER‑2] Enviando: COMPRA 20 PETR4 @ 33.60 (timestamp 1712365125)
+[EXECUTOR‑1] Executando: COMPRA 20 PETR4 @ ‑120000.00 → preço inválido
+
+---
+
+3) Impacto das inconsistências em sistemas reais
+
+- Preços corrompidos podem causar ordens executadas com valor errado, gerando prejuízos enormes (ex: compra de PETR4 a R$ ‑120.000,00).
+- Ordens perdidas significam grande discrepância entre intenção do trader e execução efetiva, aumentando risco e desconfiança.
+- Em um ambiente real, essas falhas poderiam provocar volatilidade artificial, lava jato de liquidez e até falhas regulatórias por violações de integridade.
+
+---
+
+4) Perdas financeiras hipotéticas causadas por race conditions
+
+- Se 3 ordens de PETR4 foram executadas com o preço corrompido (−120.000 em vez de ~33), as perdas podem atingir:
+  Prejuízo simulado: 3 × (33,60 − (−120.000)) × 20 = R$ 8.011.200
+- Ordens ignoradas (~15 ordens perdidas) geraram volume não processado de:
+  15 × 50 × 70 = R$ 52.500
+
+---
+
+5) Diferenças de isolamento e segurança: processos vs threads
+
+| Característica     | Processos                          | Threads                            |
+|--------------------|------------------------------------|------------------------------------|
+| Isolamento          | Cada processo tem memória separada | Compartilham memória global        |
+| Segurança           | Menos propensos a interferência    | Mais vulneráveis a race conditions |
+| Performance         | Custo de criação e comunicação     | Criação leve e comunicação rápida  |
+| Comunicação         | Pipes, sockets, IPC                | Acesso direto a arrays globais     |
+
+- Processos oferecem mais isolamento e segurança, ideais para tarefas críticas.
+- Threads são mais eficientes e performáticas, mas precisam de sincronização adequada para evitar corrupção de dados.
+
+---
+
+6) Quando usar cada abordagem em sistemas financeiros
+
+- Processos: ideais para cenários onde segurança, isolamento e robustez são essenciais — por exemplo, módulos de execução de ordens isolados.
+- Threads: úteis quando se busca alto desempenho e baixa latência, desde que haja controle rigoroso da concorrência.
+
+---
+
+7) Propostas de métricas de qualidade para sistemas de trading
+
+- Taxa de ordens perdidas: (ordens geradas − ordens executadas) ÷ ordens geradas × 100%
+- Número de eventos de corrupção de preços detectados
+- Tempo médio de execução de uma ordem
+- Volume financeiro executado vs volume pretendido
+- Variação média de preço por ação (para detectar anomalias)
