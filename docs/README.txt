@@ -26,7 +26,7 @@ calma-la3/
  Execução no Linux
 
 1. Clone o repositório:
-   git clone https://github.com/uPounDzZ/calma-la3.git
+   git clone https://github.com/uPounDzZ/Trading-System.git
    cd calma-la3
 
 2. Compile com o Makefile:
