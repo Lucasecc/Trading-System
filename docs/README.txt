@@ -1,8 +1,8 @@
-💸 Simulador Concorrente de Trading em Bolsa
+ Simulador Concorrente de Trading em Bolsa
 
 Este projeto é um simulador de um sistema de trading em bolsa de valores desenvolvido em C. Ele demonstra problemas clássicos de concorrência, como race conditions, acessos inconsistentes e ausência de sincronização em um ambiente crítico: o mercado financeiro.
 
-📌 Objetivo
+ Objetivo
 
 Simular o comportamento de uma exchange real onde múltiplos agentes (traders, executores, monitor de arbitragem e atualizador de preços) operam simultaneamente, possibilitando a análise de erros causados pela falta de controle de concorrência.
 
@@ -23,7 +23,7 @@ calma-la3/
 ├── Makefile
 └── benchmark.sh
 
-🧪 Execução no Linux
+ Execução no Linux
 
 1. Clone o repositório:
    git clone https://github.com/uPounDzZ/calma-la3.git
@@ -41,9 +41,9 @@ calma-la3/
 5. Execute a versão com threads:
    ./bin/threads.exec
 
-💡 Dica: Caso tenha problemas de permissão, use: chmod +x ./bin/*.exec
+ Dica: Caso tenha problemas de permissão, use: chmod +x ./bin/*.exec
 
-🧠 Funcionalidades
+ Funcionalidades
 
 Versão com Processos:
 - 4–6 processos traders gerando ordens aleatórias
@@ -59,13 +59,13 @@ Versão com Threads:
 - 1 thread monitora de arbitragem
 - Compartilhamento de dados via estruturas globais (sem uso de mutexes)
 
-📊 Estruturas de Dados
+ Estruturas de Dados
 
 - OrdemTrading: Representa cada ordem (compra/venda)
 - AcaoInfo: Informações de uma ação (preço, volume, etc.)
 - EstatisticasBolsa: Agrega estatísticas gerais da simulação
 
-📈 Objetivo Pedagógico
+ Objetivo Pedagógico
 
 Este projeto é um exercício prático de sistemas concorrentes com o propósito de demonstrar:
 - Corrupção de dados (preços inconsistentes)
@@ -73,7 +73,7 @@ Este projeto é um exercício prático de sistemas concorrentes com o propósito
 - Falta de sincronização crítica
 - Impacto direto em métricas financeiras
 
-🧩 Tarefas futuras (para o aluno):
+ Tarefas futuras (para o aluno):
 
 ✔ Analisar tecnicamente os seguintes pontos:
 1. Tipos de race conditions observadas (ex: corrupção de preços, ordens perdidas)
@@ -86,6 +86,3 @@ Este projeto é um exercício prático de sistemas concorrentes com o propósito
 - Cálculo de perdas financeiras simuladas
 - Propostas de métricas de qualidade (ex: tempo médio de execução, número de ordens perdidas, etc.)
 
-📄 Licença
-
-Este projeto é open-source e feito para fins educacionais. Use, modifique e aprenda com ele!
